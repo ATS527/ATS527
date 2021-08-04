@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ATS527/ATS527/blob/main/introImage.gif">
 </a>
 
-- 🔭 I’m currently working on **Flutter, Android Development ,Machine Learning**
+- 🔭 I’m currently working on **Flutter, Android Development ,Web design**
 - 🌱 I’m currently learning **College Stuff and Competitive Programming**
 - 👯 I’m looking to collaborate on **Flutter Cross Platform Development**
 - 🤔 I’m looking for help with **Internships**
